@@ -2,6 +2,8 @@
 
 Quantum Chat is an open-source, web-based chat application that leverages Azure OpenAI models. It allows users to bring their own API keys and deploy custom models, making it a flexible and powerful platform for AI-driven conversations.
 
+![Quantum Chat application screenshot](Assets/look_app.png)
+
 ## Features
 
 - **BYOK (Bring Your Own Key)**: Use your own Azure OpenAI API keys for full control and customization.
