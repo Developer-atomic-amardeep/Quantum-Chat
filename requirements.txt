@@ -1,0 +1,6 @@
+bcrypt
+streamlit
+streamlit_authenticator
+openai
+azure.storage.blob
+tqdm
